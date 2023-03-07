@@ -1,0 +1,21 @@
+the comand in the terminal is:
+. code
+
+to add the integrated twrminal
+right click --> open in integrated terminal
+
+ the comand :git init
+ is puting the hiden git folder
+ threfor we can have acsees to the folder
+
+ the comand :git status
+
+ the term: On branch master
+ the master is the basic file thats work without additional changaes
+ branch- ilustrate the all folder I did.
+
+ git config user.email ""
+ git config user.name "" /we can put any name we want to,
+
+
+
