@@ -6,3 +6,9 @@ function logInfo(){
 }
 
 console.log ("plus plus")
+
+function logInfo(){
+    console.log("blabla");
+}
+
+console.log ("plus plus")
