@@ -17,5 +17,9 @@ right click --> open in integrated terminal
  git config user.email ""
  git config user.name "" /we can put any name we want to,
 
+ the seqence will be add commit
+and push
+
+to do the stage we will use in ADD
 
 
